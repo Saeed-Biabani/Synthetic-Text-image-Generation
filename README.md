@@ -206,4 +206,4 @@ where $\ y_{{\pi}_t}^t$ is the probability of generating character $\ \pi_t$ at 
 ## References
 - [Handwritten Word Generation using GANs](https://github.com/fractal2k/Handwriting-Synthesis)
 ## 🛡️ License <a name="license"></a>
-Project is distributed under [MIT License]()
+Project is distributed under [MIT License](https://github.com/Saeed-Biabani/Synthetic-Text-image-Generation/blob/main/LICENSE)
